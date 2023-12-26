@@ -1,0 +1,36 @@
+name: rowaida_s_application2
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  intl: ^0.18.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Zhi Mang Xing
+      fonts: 
+        - asset: assets/fonts/ZhiMangXingRegular.ttf
+          weight: 400
+    - family: Roboto Flex
+      fonts: 
+        - asset: assets/fonts/RobotoFlexExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/RobotoFlexMedium.ttf
+          weight: 500
+        - asset: assets/fonts/RobotoFlexExtraBold.ttf
+          weight: 800
+    - family: Bungee Shade
+      fonts: 
+        - asset: assets/fonts/BungeeShadeRegular.ttf
+          weight: 400
