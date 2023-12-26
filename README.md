@@ -1,5 +1,8 @@
 
 # rowaida_s_application2
+![Screenshot 2023-12-26 035643](https://github.com/estellale/bo/assets/90506964/30476eda-9905-4b4a-8c6a-33768124d98c)
+
+
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
